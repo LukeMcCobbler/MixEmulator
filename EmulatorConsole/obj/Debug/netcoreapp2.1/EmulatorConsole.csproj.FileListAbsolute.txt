@@ -1,0 +1,14 @@
+/home/bolucpap/workspace/MIXEmulator/EmulatorConsole/bin/Debug/netcoreapp2.1/EmulatorConsole.deps.json
+/home/bolucpap/workspace/MIXEmulator/EmulatorConsole/bin/Debug/netcoreapp2.1/EmulatorConsole.runtimeconfig.json
+/home/bolucpap/workspace/MIXEmulator/EmulatorConsole/bin/Debug/netcoreapp2.1/EmulatorConsole.runtimeconfig.dev.json
+/home/bolucpap/workspace/MIXEmulator/EmulatorConsole/bin/Debug/netcoreapp2.1/EmulatorConsole.dll
+/home/bolucpap/workspace/MIXEmulator/EmulatorConsole/bin/Debug/netcoreapp2.1/EmulatorConsole.pdb
+/home/bolucpap/workspace/MIXEmulator/EmulatorConsole/obj/Debug/netcoreapp2.1/EmulatorConsole.csprojAssemblyReference.cache
+/home/bolucpap/workspace/MIXEmulator/EmulatorConsole/obj/Debug/netcoreapp2.1/EmulatorConsole.csproj.CoreCompileInputs.cache
+/home/bolucpap/workspace/MIXEmulator/EmulatorConsole/obj/Debug/netcoreapp2.1/EmulatorConsole.AssemblyInfoInputs.cache
+/home/bolucpap/workspace/MIXEmulator/EmulatorConsole/obj/Debug/netcoreapp2.1/EmulatorConsole.AssemblyInfo.cs
+/home/bolucpap/workspace/MIXEmulator/EmulatorConsole/obj/Debug/netcoreapp2.1/EmulatorConsole.dll
+/home/bolucpap/workspace/MIXEmulator/EmulatorConsole/obj/Debug/netcoreapp2.1/EmulatorConsole.pdb
+/home/bolucpap/workspace/MIXEmulator/EmulatorConsole/bin/Debug/netcoreapp2.1/EmulatorLib.dll
+/home/bolucpap/workspace/MIXEmulator/EmulatorConsole/bin/Debug/netcoreapp2.1/EmulatorLib.pdb
+/home/bolucpap/workspace/MIXEmulator/EmulatorConsole/obj/Debug/netcoreapp2.1/EmulatorConsole.csproj.CopyComplete

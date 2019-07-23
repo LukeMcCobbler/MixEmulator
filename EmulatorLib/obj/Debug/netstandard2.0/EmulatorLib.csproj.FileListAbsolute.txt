@@ -1,0 +1,9 @@
+/home/bolucpap/workspace/MIXEmulator/EmulatorLib/bin/Debug/netstandard2.0/EmulatorLib.deps.json
+/home/bolucpap/workspace/MIXEmulator/EmulatorLib/bin/Debug/netstandard2.0/EmulatorLib.dll
+/home/bolucpap/workspace/MIXEmulator/EmulatorLib/bin/Debug/netstandard2.0/EmulatorLib.pdb
+/home/bolucpap/workspace/MIXEmulator/EmulatorLib/obj/Debug/netstandard2.0/EmulatorLib.csprojAssemblyReference.cache
+/home/bolucpap/workspace/MIXEmulator/EmulatorLib/obj/Debug/netstandard2.0/EmulatorLib.csproj.CoreCompileInputs.cache
+/home/bolucpap/workspace/MIXEmulator/EmulatorLib/obj/Debug/netstandard2.0/EmulatorLib.AssemblyInfoInputs.cache
+/home/bolucpap/workspace/MIXEmulator/EmulatorLib/obj/Debug/netstandard2.0/EmulatorLib.AssemblyInfo.cs
+/home/bolucpap/workspace/MIXEmulator/EmulatorLib/obj/Debug/netstandard2.0/EmulatorLib.dll
+/home/bolucpap/workspace/MIXEmulator/EmulatorLib/obj/Debug/netstandard2.0/EmulatorLib.pdb

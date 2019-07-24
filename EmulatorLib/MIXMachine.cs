@@ -31,7 +31,7 @@ namespace EmulatorLib
             var FL=(FPacked-FR)/8;
             var F=new MIXFieldSpecification(FL,FR);
             var C=Content.getContents("5:5");
-            var MIndexOffset=
+            
         }
 
     }
